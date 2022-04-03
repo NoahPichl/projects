@@ -5,3 +5,5 @@ as well as training and deplyoment of the model.
 Here are some example outputs:
 
 ![Flower](results/plots/batch1_pic50.png) ![Mural](results/plots/batch1_pic23.png) ![Garden](results/plots/batch1_pic38.png) ![balcony](results/plots/batch1_pic2.png)
+
+[TODO] Intro
