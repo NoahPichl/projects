@@ -1,0 +1,30 @@
+Abstrakt
+Es wurde eine Visualisierung für ein Ersatzteillager der Firma „MEWA Textil-Service
+GmbH“ entwickelt, programmiert und realisiert. Vor Umsetzung dieser Diplomarbeit mussten
+Ersatzteile mühsam und ohne jegliche Orientierungshilfen gesucht werden. Die neue
+Visualisierung ermöglicht eine einfachere Auffindung eines Ersatzteiles für alle Mitarbeiter.
+Das gesuchte Ersatzteil wird vom Mitarbeiter mittels Barcodescanner oder durch händische
+Eingabe eingelesen.
+Durch Eingabe des
+Barcodes,
+beziehungsweise Name oder
+Artikelnummer des Ersatzteiles in die Suchleiste, erscheint eine Liste mit allen passenden
+Komponenten. Mithilfe eines Filters ist es möglich diese Teile nochmals einzuteilen, um eine
+genauere Suche zu ermöglichen. Durch einen Doppelklick auf das gesuchte Ersatzteil öffnet
+sich die Gebäudeansicht. Das Gebäude, in dem sich das ausgewählte Teil befindet, ist rot
+umrahmt. Ein weiterer Mausklick stellt die Raumansicht des jeweiligen Gebäudes dar,
+ebenfalls rot umrahmt. Nachdem man oder frau sich versichert hat in welchem Raum sich das
+Ersatzteil befindet, wird durch weiteres Klicken die Regalansicht geöffnet. Klickt der
+Mitarbeiter nun auf das hervorgehobene Regal, erscheint eine Abbildung der Fächer, wobei
+das relevante Fach, indem sich das Ersatzteil befindet, aufleuchtet. In diesem Fach werden die
+darin befindlichen Ersatzteile abgebildet und das gewünschte Ersatzteil ist somit ersichtlich.
+Nachdem sich der Mitarbeiter der Position des gewünschten Ersatzteiles bewusst ist, kann
+durch einen weiteren Mausklick auf den dargestellten Pfad zum Startpunkt beziehungsweise
+zu vorherigen Schritten der Visualisierung zurückgesetzt werden.
+Zu beachten ist, dass ein Setup über den Admin-Screen, vor dem erstmaligen Benutzen der
+Visualisierung, notwendig ist. Um Zugriff auf das Admin-Fenster zu erhalten, muss auf den
+Button „Admin Login“ geklickt werden. Der Admin dient als Bearbeitungsoberfläche.
+Werden neue Räume hinzugefügt, Regale oder Fächer gekauft, so können diese einfach in der
+Visualisierung angepasst werden. Durch Betätigen der beschrifteten Buttons und mithilfe
+eines Drop-Down Menüs ist es möglich alle Eigenschaften wie Anordnung, Größe, Name und
+Position von Räumen, Regalen und Fächern beliebig zu bearbeiten.

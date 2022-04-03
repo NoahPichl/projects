@@ -1,0 +1,23 @@
+The main purpose of this diploma thesis was to develop, program and implement a spare part
+warehouse for the “MEWA Textil-Service GmbH”. For a long time, spare parts had to be
+searched for tediously and without the help of any guides or support. The new visualization
+should make it easier for employees to find a desired spare part.
+If an employee scans the requested spare part by means of a scanning device, or by entering
+name or item number into the displayed search bar, a list containing all desired pieces
+appears. With the help of a filter it is possible to divide these parts again, in order to provide a
+more precise search. By double-clicking on the spare part you are looking for, the building
+view opens. The building in which the selected part is located is framed in red. Another
+mouse click displays the room view of the respective building, also framed in red. After man
+or woman has insured oneself in which room the spare part is, the shelf view is opened by
+further clicking. If the employee now clicks on the highlighted shelf, a picture of the
+compartments appears, with the relevant compartment where the spare part is located lighting
+up. In this compartment the items inside are shown and the desired spare part is thus visible.
+After the employee is aware of the position of the desired spare part, a further mouse click on
+the displayed path can be used to reset to the starting point or to previous steps of the
+visualization.
+Please note that a setup via the admin screen is necessary before using the visualization for
+the first time. To get access to the admin window, click on the button “Admin-Login". The
+Admin serves as the editing interface. If new rooms are added, shelves or compartments
+purchased, these can be easily adapted in the visualization. By pressing the labeled buttons
+and using a drop-down menu it is possible to edit all properties such as arrangement, size,
+name and position of rooms, shelves and compartments as desired.
