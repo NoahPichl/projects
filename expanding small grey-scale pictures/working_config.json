@@ -1,0 +1,16 @@
+{
+  "data_path": "data/dataset/",
+  "results_path": "results",
+  "device": "cuda:0",
+  "batchsize": 200,
+  "learningrate": 1e-4,
+  "weight_decay": 1e-5,
+  "n_updates": 8000,
+
+  "network_config": {
+    "n_hidden_layers": 5,
+    "n_in_channels": 2,
+    "n_kernels": 64,
+    "kernel_size": 9
+  }
+}
